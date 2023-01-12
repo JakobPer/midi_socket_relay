@@ -1,12 +1,7 @@
 ﻿using Commons.Music.Midi;
-using WebSocketSharp.Server;
-using CoreMidi;
-using System.Net.Sockets;
 using System.Net;
-using System;
 using System.Text;
-using System.Runtime.CompilerServices;
-using System.Net.WebSockets;
+using WebSocketSharp.Server;
 
 /// <summary>
 /// We just need a stub
